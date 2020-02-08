@@ -1,0 +1,16 @@
+[
+    {
+        "user": "root",
+        "password": "7c4a8d09ca3762af61e59520943dc26494f8941b",
+        "load": "123456",
+        "\u81ea\u52a8\u767b\u5f55": 0,
+        "\u8bb0\u4f4f\u5bc6\u7801": 1
+    },
+    {
+        "user": "gk",
+        "password": "f7c3bc1d808e04732adf679965ccc34ca7ae3441",
+        "load": "123456789",
+        "\u81ea\u52a8\u767b\u5f55": 0,
+        "\u8bb0\u4f4f\u5bc6\u7801": 1
+    }
+]
